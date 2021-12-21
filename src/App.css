@@ -1,0 +1,7 @@
+.component {
+  display: block;
+  border: 1px solid black;
+  margin: 1rem;
+  padding: 1rem;
+  width: calc(30% - 2rem);
+}
