@@ -1,5 +1,5 @@
 import React from 'react';
-import useJsonFetch from './hooks/useJsonFetch';
+import useJsonFetch from '../hooks/useJsonFetch';
 
 export default function Loading(props) {
   const {url} = props;
